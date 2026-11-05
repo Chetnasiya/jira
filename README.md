@@ -10,7 +10,7 @@ A full-featured project management application built with Next.js 14, inspired b
 - 👥 **Team Collaboration** - Invite members and manage team permissions
 - 📈 **Analytics Dashboard** - Track project progress and team performance
 - 🎯 **Drag & Drop** - Intuitive task management with drag-and-drop functionality
-- 📅 **Calendar View** - Visualize tasks in calendar format
+- 📅 **Calendar View** - Visualize tasks by due date in a calendar
 - 🔐 **Authentication** - Secure sign-in and sign-up flows
 - 🔎 **Search & Filters** - Quickly find tasks by status, assignee, or project
 
