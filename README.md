@@ -32,7 +32,7 @@ A full-featured project management application built with Next.js 14, inspired b
 ### Prerequisites
 
 - Node.js 18.17+ installed
-- npm/yarn/pnpm/bun package manager
+- npm, yarn, pnpm, or bun package manager
 
 ### Installation
 
