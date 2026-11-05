@@ -25,7 +25,7 @@ A full-featured project management application built with Next.js 14, inspired b
 - **Form Handling**: React Hook Form + Zod
 - **Drag & Drop**: @hello-pangea/dnd
 - **Charts**: Recharts (analytics dashboard)
-- **Calendar**: React Big Calendar
+- **Calendar**: React Big Calendar (task calendar view)
 
 ## Getting Started
 
