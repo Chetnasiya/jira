@@ -24,7 +24,7 @@ A full-featured project management application built with Next.js 14, inspired b
 - **Backend**: Hono + Appwrite
 - **Form Handling**: React Hook Form + Zod
 - **Drag & Drop**: @hello-pangea/dnd
-- **Charts**: Recharts
+- **Charts**: Recharts (analytics dashboard)
 - **Calendar**: React Big Calendar
 
 ## Getting Started
