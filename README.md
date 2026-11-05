@@ -12,6 +12,7 @@ A full-featured project management application built with Next.js 14, inspired b
 - 🎯 **Drag & Drop** - Intuitive task management with drag-and-drop functionality
 - 📅 **Calendar View** - Visualize tasks in calendar format
 - 🔐 **Authentication** - Secure sign-in and sign-up flows
+- 🔎 **Search & Filters** - Quickly find tasks by status, assignee, or project
 
 ## Tech Stack
 
