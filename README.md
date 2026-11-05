@@ -21,7 +21,7 @@ A full-featured project management application built with Next.js 14, inspired b
 - **Styling**: Tailwind CSS
 - **UI Components**: Radix UI
 - **State Management**: TanStack Query (React Query)
-- **Backend**: Hono + Appwrite
+- **Backend**: Hono (API routes) + Appwrite (auth & database)
 - **Form Handling**: React Hook Form + Zod
 - **Drag & Drop**: @hello-pangea/dnd
 - **Charts**: Recharts (analytics dashboard)
