@@ -89,4 +89,4 @@ This project is for educational purposes.
 
 ## License
 
-MIT
+This project is licensed under the MIT License.
